@@ -58,6 +58,7 @@ pyinstaller
 安装需要用到pip工具，该工具在3.5版本的[python](https://so.csdn.net/so/search?from=pc_blog_highlight&q=python)中已经自带不用另行安装，但是需要在系统变量中添加python下的Scripts文件夹，如下图：
 
 ![img](https://img.jbzj.com/file_images/article/202006/202006020923028.png)
+图（https://img.jbzj.com/file_images/article/202006/202006020923028.png）
 
 在Path变量值中添加【;(python的安装目录)\Scripts】
 
@@ -90,6 +91,7 @@ pyinstaller [option] /path/to/yourscript.py
 执行完毕之后，会生成几个文件夹，如下图所示。
 
 ![img](https://img2020.cnblogs.com/blog/1364361/202009/1364361-20200905114853579-1237446053.png)
+图 https://img2020.cnblogs.com/blog/1364361/202009/1364361-20200905114853579-1237446053.png
 
 在dist里面呢，就有了一个exe程序，这个就是可执行的exe程序，如下图所示。
 
